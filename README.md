@@ -1,5 +1,8 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%to%Seozzy's%Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,2,2,3&height=300&section=header&text=Welcome%to<br>Seozzy's%Github&fontSize=90)
+
+
+
 <!--
 **rlatjdus0827/rlatjdus0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
