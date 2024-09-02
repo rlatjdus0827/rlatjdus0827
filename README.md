@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/spring-ffffff.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/springboot-ffffff.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/cplusplus-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center">
@@ -14,23 +15,16 @@
   <img src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/androidstudio-34A853.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazon%20s3-569A31.svg?style=for-the-badge&logo=amazon%20s3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazon%20ecs-FF9900.svg?style=for-the-badge&logo=amazon%20ecs&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
 </div>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
-
-<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
