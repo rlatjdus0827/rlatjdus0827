@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/dev%20c++-000000.svg?style=for-the-badge&logo=devc++&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -42,10 +43,13 @@
 </div>
 
 <br>
-
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/pycharm-FDEE21.svg?style=for-the-badge&logo=pycharm&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/intellij%20idea-7D00FF.svg?style=for-the-badge&logo=intellij%20idea&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
 </div>
+<br>
 
 <br>
 
