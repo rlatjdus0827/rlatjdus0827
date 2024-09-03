@@ -44,8 +44,8 @@
 
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/pycharm-FDEE21.svg?style=for-the-badge&logo=pycharm&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/intellij%20idea-7D00FF.svg?style=for-the-badge&logo=intellij%20idea&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/pycharm-FDEE21.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/intellij%20idea-7D00FF.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
 </div>
