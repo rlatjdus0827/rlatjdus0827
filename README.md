@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/springboot-F3F3F3.svg?style=for-the-badge&logo=springboot&logoColor=#6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center">
