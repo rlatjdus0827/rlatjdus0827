@@ -66,3 +66,8 @@
       src="https://img.shields.io/badge/a01029934312@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<h3 align="center"> Project </h3>
+|Project Name|Tech Stack|Team|Period|Link|
+|--------------|--------------------|--------------------|--------------------|-------------|
+|대학 전용 챗봇 '수뭉봇' 웹 프로젝트|Python, json, flask, html/css/js|Team(4)|2023/03/02 - 2023/07/15|x|
