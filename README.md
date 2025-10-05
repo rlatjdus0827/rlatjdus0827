@@ -66,8 +66,3 @@
       src="https://img.shields.io/badge/a01029934312@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-    | 프로젝트명 | 설명 | 기술 스택 | GitHub 링크 |
-    | :---------- | :--- | :------- | :---------- |
-    | 프로젝트 A  | 웹 서비스 개발 | React, Node.js, AWS | [프로젝트 A 저장소](https://github.com/사용자명/프로젝트A) |
-    | 프로젝트 B  | 모바일 앱 개발 | Swift, Firebase | [프로젝트 B 저장소](https://github.com/사용자명/프로젝트B) |
